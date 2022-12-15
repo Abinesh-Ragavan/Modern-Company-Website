@@ -1,4 +1,4 @@
-# Modern-Company-Website url("ec2-52-90-45-240.compute-1.amazonaws.com") or ("http://52.90.45.240/")
+# Modern-Company-Website url(https://abinesh-ragavan.github.io/Modern-Company-Website/)
 
 A responsive website using HTML, CSS, and Bootstrap
 by abinesh ragavan
